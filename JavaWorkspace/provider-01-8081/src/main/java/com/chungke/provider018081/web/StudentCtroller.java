@@ -25,7 +25,7 @@ public class StudentCtroller {
         student.setSsex("1");
         student.setSdept("1");
         student.setSno(UUID.randomUUID().toString());
-        studentService.saveStudent(s);
+        studentService.saveStudent(student);
         System.out.println(student.toString());
         return  true;
     }

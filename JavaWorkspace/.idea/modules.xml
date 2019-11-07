@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWorkspace.iml" filepath="$PROJECT_DIR$/JavaWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-01-8081/provider-01-8081.iml" filepath="$PROJECT_DIR$/provider-01-8081/provider-01-8081.iml" />
+    </modules>
+  </component>
+</project>

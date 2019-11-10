@@ -13,3 +13,11 @@ spring:
     password: 7758258
     # 可以不配置，根据url自动识别，建议配置
     driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: provider-test-01
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+  instance:
+    instance-id: provider-test-8081

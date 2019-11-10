@@ -1,5 +1,5 @@
 server:
-  port: 8981
+  port: 8080
 spring:
   jpa:
     generate-ddl: true
@@ -13,3 +13,9 @@ spring:
     password: 7758258
     # 可以不配置，根据url自动识别，建议配置
     driver-class-name: com.mysql.jdbc.Driver
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+  instance:
+    instance-id: cunsumer-8080

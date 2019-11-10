@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWorkspace.iml" filepath="$PROJECT_DIR$/JavaWorkspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-01-8081/provider-01-8081.iml" filepath="$PROJECT_DIR$/provider-01-8081/provider-01-8081.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-01-8080/provider-01-8081 (1).iml" filepath="$PROJECT_DIR$/consumer-01-8080/provider-01-8081 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-01-8000/server-01-8000.iml" filepath="$PROJECT_DIR$/server-01-8000/server-01-8000.iml" />
     </modules>
   </component>
 </project>

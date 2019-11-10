@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "student")
 //@JsonIgnoreProperties({hibernateLazyInitializer})
-public class Student {
+public class Student  {
 //    CREATE TABLE `student` (
 //            `sno` varchar(8) NOT NULL,
 //  `sname` char(8) DEFAULT NULL,

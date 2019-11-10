@@ -8,17 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="provider-01-8081" />
         <module name="provider-01-8081 (1)" />
+        <module name="server-01-8000" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="provider-01-8081" target="1.8" />
       <module name="provider-01-8081 (1)" target="1.8" />
+      <module name="server-01-8000" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="provider-01-8081" options="-parameters" />
       <module name="provider-01-8081 (1)" options="-parameters" />
+      <module name="server-01-8000" options="-parameters" />
     </option>
   </component>
 </project>
